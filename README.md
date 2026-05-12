@@ -179,12 +179,10 @@ function removeTask(button) {
 
 ## OUTPUT
 
-<img width="1920" height="1080" alt="Screenshot (279)" src="https://github.com/user-attachments/assets/acb74b33-fe9c-4439-95a8-50b97fd9426e" />
+<img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/c8880241-c544-4692-9b1f-08a30198b24f" />
+<img width="1897" height="901" alt="image" src="https://github.com/user-attachments/assets/aa9b285c-26d3-4798-b33e-8675ec6cc4e0" />
+<img width="1916" height="961" alt="image" src="https://github.com/user-attachments/assets/1c4b8510-d802-4048-8f22-5b31359e7162" />
 
-
-<img width="1920" height="1080" alt="Screenshot (280)" src="https://github.com/user-attachments/assets/feddcc9c-271a-4222-9b7a-882c1042c48b" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/16762a1d-0456-443a-acbc-35dc89d06382" />
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
